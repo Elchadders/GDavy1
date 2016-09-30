@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+      
+      <div id="picture">
+    
+        <img src="https://i.gyazo.com/76d368fd4905fea8921de1cf91ceec47.png" id="pic" />
+    
+        <div>
+        
+            
+        
+            <h1 class="name">Garth Davy</h1>
+        
+           <p>Cell: 876-873-2425</p>
+           <p>Email: davychd@yahoo.com</p>
+        </div>
+      
+        <div>
+            <p>
+              <em>My name is<strong> Garth Davy</strong> and I am a twenty-one year old male who is pursing a Bachelor's Degree in Computer Science.I do believe that the strength of any organization is dependent upon its employees, therefore, I am seeking a job within your organization. Inasmuch as this position is in sync wiwth my career goal, I will also welcomethe opportunity of employment in other similar capacity. I am highly motivated, goal oriented individual who believes that these qualities willbe benefit to your organization. </em>>
+            </p>
+        </div>
+        
+        
+       
+        
+       
+            <dd class="skipspace"></dd>
+            
+            <dt>Education</dt>
+            <dd>
+                <h2>University of the West Indies</h2>
+                <ul>
+                  <li><strong>Major</strong>: Computer Science</li>
+                  <li><strong>Minor</strong>: Management Studies</li>
+                    
+                </ul>
+            </dd>
+            
+            <dd class="skipspace"></dd>
+            
+            <dt>Skills</dt>
+            <dd>
+                
+                
+                <h2>Office skills</h2>
+                 <ul>
+                    <li>Creating and organizing spreadsheet information</li>
+                    <li>Creating dynamic presentations to show attractive examples of presentation slides</li>
+                    <li>Carrying out mail merges, format documents expertly, and execute other complex functions</li>
+                </ul>
+            </dd>
+            
+            <dd class="skipspace"></dd>
+            
+            <dt>Experience</dt>
+            <dd>
+                <h2>Computer Skills</h2>
+                <ul>
+                    <li>Microsoft Software (Word, Spreadsheet, PowerPoint)</li>
+                    <li>Adobe Creative Suite</li>
+                    <li>Adobe Dreamweaver</li>
+                </ul>
+            </dd>
+          
+            <dd class="skipspace"></dd>
+            
+            <dt>Hobbies</dt>
+            <dd>
+                <h2>Entertainment</h2>
+                <ul>
+                    <li>Playing Basketball</li>
+                    <li>Playing Chess</li>
+                    <li>Learning to use programs</li>
+                </ul>
+            </dd>
+        
+        
+        
+            <dd class="skipspace"></dd>
+            
+            <dt>References</dt>
+            <dd>
+                <h2> </h2>
+                <p> Justice of the Peace </p>
+              <p> Glenroy Flowers </p>
+              <p> Contact: 1-876-832-9264</p>
+            </dd>
+      </div>
+    
+    </body>
+</html>
